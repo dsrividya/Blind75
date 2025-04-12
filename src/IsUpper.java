@@ -14,7 +14,7 @@ public class IsUpper {
         {
             return true;
         }
-        if(numberofCap==1||Character.isUpperCase(s.charAt(0)))
+        if(numberofCap==1|| Character.isUpperCase(s.charAt(0)))
         {
             return true;
         }
